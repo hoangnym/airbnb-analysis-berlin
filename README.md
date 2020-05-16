@@ -2,7 +2,7 @@
 
 # AirBnB Data Analysis for Berlin
 
-I have written a blog post for this project, you can have a look at it [here](#)
+I have written a blog post for this project, you can have a look at it [here](https://medium.com/@hoangnym94/analysis-of-the-airbnb-market-in-berlin-2020-124c3841cc32)
 
 <img src='./Airbnb Berlin 2020.png'>
 
