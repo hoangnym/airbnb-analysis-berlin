@@ -9,15 +9,13 @@ I have written a blog post for this project, you can have a look at it [here](#)
 This repository contains an analysis of AirBnB Data of Berlin in the years 2019 and 2020.<br>
 Analysis follows ***`CRISP-DM`*** process!<br>
 
-This data is provided by *Inside AirBnB* on, you can download the data from [here](http://insideairbnb.com/get-the-data.html)<br>
+This data is provided by *Inside AirBnB*, you can download the data from [here](http://insideairbnb.com/get-the-data.html)<br>
 
-`Steps in CRISP-DM process:`
+`Steps to analyse data:`
 - Business Understanding
 - Data Understanding 
 - Data Preparation 
-- Modelling
 - Evaluation
-- Setting out (information to stakeholder)
 
 This repo contains all of the above mentioned steps in `airbnb-analysis-berlin.ipynb`. 
 
