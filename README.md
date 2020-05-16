@@ -34,8 +34,8 @@ This repo contains all of the above mentioned steps in `airbnb-analysis-berlin.i
 ## Installation
 
 
-- [Download the latest release.](#)
-- Clone the repo: `git clone #`
+- [Download the latest release.](https://github.com/justZen94/airbnb-analysis-berlin)
+- Clone the repo: `git clone https://github.com/justZen94/airbnb-analysis-berlin`
 - Don't forget to download the data as well on inside airbnb
 
 
